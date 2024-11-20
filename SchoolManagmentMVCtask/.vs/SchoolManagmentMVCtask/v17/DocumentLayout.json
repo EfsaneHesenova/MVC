@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|c:\\users\\user\\source\\repos\\schoolmanagmentmvctask\\schoolmanagmentmvctask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A362AD5-B09E-44B9-8CD2-94B7D2E5B51E}|SchoolManagmentMVCtask\\SchoolManagmentMVCtask.csproj|solutionrelative:schoolmanagmentmvctask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T00:08:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T00:08:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Views\\Group\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Views\\Group\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Views\\Group\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Views\\Group\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T00:08:07.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\appsettings.json",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T00:06:20.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T23:51:01.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:28:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Models\\Group.cs",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:28:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:28:12.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABIAAAAAZ2ZmZqYtwCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:52:07.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:51:44.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:51:22.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:50:36.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagmentMVCtask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SchoolManagmentMVCtask\\SchoolManagmentMVCtask\\Program.cs",
+              "RelativeToolTip": "SchoolManagmentMVCtask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:37:54.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

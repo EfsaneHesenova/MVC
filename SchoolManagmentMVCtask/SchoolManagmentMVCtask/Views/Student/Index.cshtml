@@ -1,0 +1,11 @@
+﻿@using SchoolManagmentMVCtask.Models;
+@model List<Student>;
+
+@foreach (Student student in @Model)
+{
+    <p>@student.FirstName</p>
+    <p>@student.LastName</p>
+    <p>@student.Email</p>
+    <p>@student.Group.Name</p>
+
+}
