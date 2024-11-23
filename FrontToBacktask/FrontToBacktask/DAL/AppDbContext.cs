@@ -9,6 +9,7 @@ namespace FrontToBacktask.DAL
 
         public DbSet<TeamMember> TeamMembers { get; set; }
         public DbSet<Form> Forms { get; set; }
+        public DbSet<Work> Works { get; set; }
     }
 }
 

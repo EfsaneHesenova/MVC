@@ -7,52 +7,52 @@
       "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122002654_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontToBacktask\\Migrations\\20241122002654_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\areas\\admin\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\areas\\admin\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\areas\\admin\\views\\work\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\areas\\admin\\views\\work\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122230916_CreateWorkTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontToBacktask\\Migrations\\20241122230916_CreateWorkTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122001432_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontToBacktask\\Migrations\\20241122001432_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|c:\\users\\user\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\worksingle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2F7C1-32A3-4221-8350-47A83855837D}|FrontToBacktask\\FrontToBacktask.csproj|solutionrelative:fronttobacktask\\views\\worksingle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,158 +70,157 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20241122002654_Initial2.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122002654_Initial2.cs",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Migrations\\20241122002654_Initial2.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122002654_Initial2.cs",
-              "RelativeToolTip": "FrontToBacktask\\Migrations\\20241122002654_Initial2.cs",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontToBacktask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T00:26:54.301Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T01:12:09.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20241122001432_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122001432_Initial.cs",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Migrations\\20241122001432_Initial.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122001432_Initial.cs",
-              "RelativeToolTip": "FrontToBacktask\\Migrations\\20241122001432_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T00:14:32.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Models\\Form.cs",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Models\\Form.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Models\\Form.cs",
-              "RelativeToolTip": "FrontToBacktask\\Models\\Form.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T00:13:18.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "FrontToBacktask\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T00:06:39.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FrontToBacktask\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FrontToBacktask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T23:39:21.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FrontToBacktask\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T23:39:18.705Z",
+              "WhenOpened": "2024-11-23T01:11:45.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "FrontToBacktask\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "FrontToBacktask\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:36:03.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\appsettings.json",
-              "RelativeDocumentMoniker": "FrontToBacktask\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\appsettings.json",
-              "RelativeToolTip": "FrontToBacktask\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T22:25:13.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "FrontToBacktask\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAwC4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:24:29.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TeamMember.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Models\\TeamMember.cs",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Models\\TeamMember.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Models\\TeamMember.cs",
-              "RelativeToolTip": "FrontToBacktask\\Models\\TeamMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T22:17:17.954Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\Work\\Create.cshtml",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Areas\\Admin\\Views\\Work\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\Work\\Create.cshtml",
+              "RelativeToolTip": "FrontToBacktask\\Areas\\Admin\\Views\\Work\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T01:11:37.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "FrontToBacktask\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAABTAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FrontToBacktask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T21:50:19.147Z",
+              "WhenOpened": "2024-11-23T01:11:34.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FrontToBacktask\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FrontToBacktask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "FrontToBacktask\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:26:07.804Z",
+              "WhenOpened": "2024-11-23T01:10:21.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241122230916_CreateWorkTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122230916_CreateWorkTable.cs",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Migrations\\20241122230916_CreateWorkTable.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Migrations\\20241122230916_CreateWorkTable.cs",
+              "RelativeToolTip": "FrontToBacktask\\Migrations\\20241122230916_CreateWorkTable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:09:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\WorkSingle\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Views\\WorkSingle\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\WorkSingle\\Index.cshtml",
+              "RelativeToolTip": "FrontToBacktask\\Views\\WorkSingle\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T21:13:07.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "FrontToBacktask\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T21:11:55.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\appsettings.json",
+              "RelativeDocumentMoniker": "FrontToBacktask\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\appsettings.json",
+              "RelativeToolTip": "FrontToBacktask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T21:11:21.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "FrontToBacktask\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:59:06.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "FrontToBacktask\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:17:50.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FrontToBacktask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FrontToBacktask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:46:06.679Z",
               "EditorCaption": ""
             },
             {
@@ -232,7 +231,7 @@
               "RelativeDocumentMoniker": "FrontToBacktask\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\FrontToBacktask\\FrontToBacktask\\Program.cs",
               "RelativeToolTip": "FrontToBacktask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T14:19:10.294Z",
               "EditorCaption": ""
