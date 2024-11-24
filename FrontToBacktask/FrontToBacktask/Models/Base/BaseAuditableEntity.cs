@@ -1,8 +1,7 @@
-﻿namespace FrontToBacktask.Models
+﻿namespace FrontToBacktask.Models.Base
 {
-    public abstract class BaseEntity
+    public abstract class BaseAuditableEntity : BaseEntity
     {
-        public int Id { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? UpdateDate { get; set; }
         public bool IsDeleted { get; set; } = false;

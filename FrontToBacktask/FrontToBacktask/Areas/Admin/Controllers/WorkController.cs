@@ -1,6 +1,7 @@
 ﻿using FrontToBacktask.DAL;
 using FrontToBacktask.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace FrontToBacktask.Areas.Admin.Controllers
@@ -32,6 +33,7 @@ namespace FrontToBacktask.Areas.Admin.Controllers
         }
         public IActionResult Create()
         {
+            ViewBag.Services = new SelectList(_appDbContext.Services, "Id", "Title");
             return View();
         }
 
@@ -43,6 +45,29 @@ namespace FrontToBacktask.Areas.Admin.Controllers
                 return BadRequest("Something went wrong");
             }
             _appDbContext.Works.Add(work);
+            _appDbContext.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+        public ActionResult Update(int? Id)
+        {
+            Work? work = _appDbContext.Works.Find(Id);
+            if (work == null)
+            {
+                return NotFound();
+            }
+            return View(nameof(Create), work);
+        }
+
+
+        [HttpPost]
+        public ActionResult Update(Work work)
+        {
+            Work? updatedWork = _appDbContext.Works.AsNoTracking().FirstOrDefault(w => w.Id == work.Id);
+            if (updatedWork == null)
+            {
+                return BadRequest();
+            }
+            _appDbContext.Works.Update(work);
             _appDbContext.SaveChanges();
             return RedirectToAction(nameof(Index));
         }

@@ -4,6 +4,7 @@ using FrontToBacktask.DAL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FrontToBacktask.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241124172618_CreatedServiceTable")]
+    partial class CreatedServiceTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -170,9 +173,6 @@ namespace FrontToBacktask.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ServiceId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -182,25 +182,7 @@ namespace FrontToBacktask.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ServiceId");
-
                     b.ToTable("Works");
-                });
-
-            modelBuilder.Entity("FrontToBacktask.Models.Work", b =>
-                {
-                    b.HasOne("FrontToBacktask.Models.Service", "Service")
-                        .WithMany("Works")
-                        .HasForeignKey("ServiceId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("Service");
-                });
-
-            modelBuilder.Entity("FrontToBacktask.Models.Service", b =>
-                {
-                    b.Navigation("Works");
                 });
 #pragma warning restore 612, 618
         }

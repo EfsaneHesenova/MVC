@@ -1,6 +1,8 @@
-﻿namespace FrontToBacktask.Models
+﻿using FrontToBacktask.Models.Base;
+
+namespace FrontToBacktask.Models
 {
-    public class Form : BaseEntity
+    public class Form : BaseAuditableEntity
     {
         public string Name { get; set; }
         public string Email { get; set; }
