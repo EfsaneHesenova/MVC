@@ -12,14 +12,13 @@
         <label asp-for="MainImageUrl"></label>
         <input class="form-control" asp-for="MainImageUrl">
     </div>
-    <div class="input-group mb-3">
-        <div class="input-group-prepend">
-            <label class="input-group-text" asp-for="ServiceId" asp-items="new SelectList(ViewBag.Services, Service.Id, Service.Title)">Options</label>
-        </div>
-        <select class="custom-select" id="inputGroupSelect01">
-            
-            <option value=""></option>
-        </select>
+    <div class="form-group">
+        <select class="form-select" asp-for=ServiceId asp-items="new SelectList(ViewBag.Services, nameof(Service.Id), nameof(Service.Title))">
+                <option selected hidden>Please select service</option>
+            </select>
+            <div>
+                <span asp-validation-for="ServiceId" class="text-danger"></span>
+            </div>
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>

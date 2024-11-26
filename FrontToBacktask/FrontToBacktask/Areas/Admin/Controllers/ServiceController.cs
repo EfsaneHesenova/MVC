@@ -15,7 +15,7 @@ namespace FrontToBacktask.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            IEnumerable<Service> services = await _appDbContext.Services.ToListAsync();
+            IEnumerable<Service> services = await _appDbContext.Services.Include(s=> s.Works).ToListAsync();
             return View(services);
         }
         public IActionResult Delete(int Id)
