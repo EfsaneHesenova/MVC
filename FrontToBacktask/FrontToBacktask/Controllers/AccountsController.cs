@@ -10,11 +10,15 @@ namespace FrontToBacktask.Controllers
     {
         private readonly AppDbContext _appDbContext;
         private readonly UserManager<AppUser> _userManager;
+        private readonly SignInManager<AppUser> _signInManager;
 
-        public AccountsController(AppDbContext appDbContext, UserManager<AppUser> userManager)
+
+
+        public AccountsController(AppDbContext appDbContext, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
         {
             _appDbContext = appDbContext;
             _userManager = userManager;
+            _signInManager = signInManager;
         }
 
 
@@ -46,11 +50,50 @@ namespace FrontToBacktask.Controllers
 
                     return View(creatUser);
                 }
-
+               
                 return RedirectToAction("Index", "Home");
             }
 
             return View(creatUser);
         }
+
+        public IActionResult Login()
+            { return View(); }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginUserDto loginUserDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                ModelState.AddModelError(string.Empty, "Invalid Login");
+                return View();
+            }
+            AppUser? user = await _userManager.FindByEmailAsync(loginUserDto.EmailOrUsername);
+            if (user == null)
+            {
+                user = await _userManager.FindByNameAsync(loginUserDto.EmailOrUsername);
+
+                if (user == null)
+                {
+                    ModelState.AddModelError(string.Empty, "Invalid Login");
+                    return View();
+                }
+            }
+
+            var result = await _signInManager.PasswordSignInAsync(user, loginUserDto.Password, loginUserDto.isPersistant, true);
+
+            if (!result.Succeeded)
+            {
+                ModelState.AddModelError(string.Empty, "Invalid Login");
+                return View();
+            }
+            return RedirectToAction(nameof(Index), "Home");
+        }
+        public async Task<IActionResult> Logout()
+        {
+           await _signInManager.SignOutAsync();
+            return RedirectToAction(nameof(Index), "Home");
+        }
+
     }
 }

@@ -6,11 +6,13 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
+
 builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 {
     opt.Password.RequiredLength = 8;
     opt.Password.RequireUppercase = true;
     opt.Password.RequireNonAlphanumeric = false;
+    opt.User.RequireUniqueEmail = true;
     opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
     opt.SignIn.RequireConfirmedEmail = false;
 
@@ -23,6 +25,8 @@ builder.Services.AddDbContext<AppDbContext>(
 
 
 var app = builder.Build();
+app.UseAuthentication();
+
 app.MapControllerRoute(
       name: "areas",
       pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"

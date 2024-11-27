@@ -8,6 +8,6 @@ namespace FrontToBacktask.Models
         public string Description { get; set; }
         public string MainImageUrl { get; set; }
         public int ServiceId { get; set; }
-        public Service Service { get; set; }
+        public Service? Service { get; set; }
     }
 }
