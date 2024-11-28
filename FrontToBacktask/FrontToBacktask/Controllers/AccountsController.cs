@@ -59,7 +59,7 @@ namespace FrontToBacktask.Controllers
 
         public IActionResult Login()
             { return View(); }
-
+        [ValidateAntiForgeryToken]
         [HttpPost]
         public async Task<IActionResult> Login(LoginUserDto loginUserDto)
         {
